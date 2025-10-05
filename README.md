@@ -1,8 +1,4 @@
 <!-- PROJECT LOGO / BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ppbeast18/music/main/public/logo.png" alt="Music Logo" width="150" />
-</p>
-
 <h1 align="center">🎵 Music Identifier (Next.js + Shazam API)</h1>
 
 <p align="center">
@@ -24,20 +20,6 @@
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Demo / Screenshots](#-demo--screenshots)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
-  - [Running the App](#running-the-app)
-- [Usage](#-usage)
-- [API Integration](#-api-integration)
-- [Music Platform Integration](#-music-platform-integration)
-- [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-- [Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -82,9 +64,5 @@ This project showcases **Next.js server-side rendering**, **API route integratio
 
 ## 🎬 Demo / Screenshots
 
-*(Add demo GIFs, UI screenshots, or short clips here — e.g. song detection in action.)*
 
----
-
-## 📂 Project Structure
 
