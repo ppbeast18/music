@@ -55,14 +55,20 @@ This project showcases **Next.js server-side rendering**, **API route integratio
 |-------|---------------|
 | **Frontend / SSR** | Next.js, React, Tailwind CSS |
 | **Backend / API** | Next.js API routes (Node.js) |
-| **Audio Recognition** | Shazam API (via RapidAPI or similar) |
-| **HTTP & State** | Axios / Fetch, SWR |
-| **Deployment** | Vercel / Netlify |
-| **Version Control** | Git + GitHub |
+| **Audio Recognition** | Shazam API (via RapidAPI) |
+| **HTTP & State** | Axios / Fetch|
+| **Deployment** | Vercel |
+| **Version Control** | GitHub |
 
 ---
 
 ## 🎬 Demo / Screenshots
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dalgfcexp/image/upload/v1759652815/Screenshot_2025-06-29_154120_lj7r3c.png" alt="Music App Demo 1" width="80%" style="border-radius:10px; margin:10px 0;" />
+</p>
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dalgfcexp/image/upload/v1759652816/Screenshot_2025-03-22_141131_ii8ndo.png" alt="Music App Demo 2" width="80%" style="border-radius:10px; margin:10px 0;" />
+</p>
 
