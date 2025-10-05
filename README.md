@@ -5,11 +5,6 @@
   A web app built with Next.js that uses the Shazam API to identify songs from audio or snippets, showing metadata, artwork and preview.  
   It also provides direct links to 6 major music streaming platforms — so users can instantly listen on their preferred app.
   <br />
-  <a href="https://github.com/ppbeast18/music"><strong>Explore the repo »</strong></a>
-  <br /><br />
-  <a href="https://github.com/ppbeast18/music/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/ppbeast18/music/issues">Request Feature</a>
 </p>
 
 ---
